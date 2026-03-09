@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hi, I'm Stefaniia Momot
 
-<!--
-**Stef-aniya/Stef-aniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Frontend Developer | JavaScript, React, Node.js
+Frontend developer with experience in JavaScript, React, and Node. Experienced in creating one-page applications (SPAs) and implementing adaptive interface components. Adherence to version control and performance optimization methods.
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript | TypeScript | Node.js | React 
+
+## 💻Featured Projects  
+
+
+## 🗣️ Languages
+English -- (https://img.shields.io/badge/English-B2-blue?style=flat-square)
+Ukrainian -- (https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+
+## 📫 How to reach me:  
+www.linkedin.com/in/stefaniia-momot | https://t.me/M_Stefaniia | mailto:stefaniiamomot@gmail.com
